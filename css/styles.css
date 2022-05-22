@@ -176,6 +176,7 @@
 
 .msgCardTempo{
     margin-left: 900px;
+    margin-top: 24px;
 }
 
 .msgCardNome{
@@ -240,6 +241,10 @@
 
 .justifyItemsCenter{
     justify-items: center;
+}
+
+.justifyContentEnd{
+    justify-content: end;
 }
 
 .alignContentCenter{
